@@ -1,15 +1,24 @@
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/navbar.tsx';
+import Home from './components/home.tsx';
 
-function App() {
+const App: React.FC = () => {
   return (
-    <>
-      <Navbar />
-      <main className="p-4">
-        <h1 className="text-2xl font-bold">Welcome to My Website!</h1>
-        <p className="mt-2 text-gray-700">This is a simple React and Tailwind CSS setup with TypeScript.</p>
-      </main>
-    </>
-  )
-}
+      <Router>
+          <div className="flex flex-col min-h-screen">
+              <Navbar />
 
-export default App
+              <main className="flex-grow bg-beige">
+                  <Routes>
+                      <Route path="/" element={<Home />} />
+                  </Routes>
+              </main>
+
+              {/* <Footer /> */}
+          </div>
+      </Router>
+  );
+};
+
+export default App;
