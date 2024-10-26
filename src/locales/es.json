@@ -1,0 +1,11 @@
+{
+    "navbar": {
+      "home": "Inicio",
+      "about": "Sobre nosotras",
+      "services": "Servicios",
+      "contact": "Contacto",
+      "language": "Idioma"
+    },
+    "welcome": "Bienvenido",
+    "description": "Descripción."
+  }
