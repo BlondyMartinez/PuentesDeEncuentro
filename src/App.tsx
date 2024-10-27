@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/navbar.tsx';
+import Navbar from './components/nav/navbar.tsx';
 import Home from './components/home.tsx';
 
 const App: React.FC = () => {
