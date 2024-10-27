@@ -4,7 +4,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        beige: '#FFFAF2',
+        beige: {
+          DEFAULT: '#FFFAF2',
+          light: '#FFF9EF',
+          dark: '#E6D9C8',
+        },
         orange: {
           DEFAULT: '#F8A340',
           light: '#FFC38C',
