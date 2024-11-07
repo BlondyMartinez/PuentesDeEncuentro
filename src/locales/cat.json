@@ -12,7 +12,7 @@
     },
     "mission": {
       "title": "La Nostra Missió",
-      "text": "A Puentes de Encuentro, la nostra missió és crear un espai de suport i creixement on cada persona pugui construir ponts per connectar amb la seva essència, descobrir el seu propi camí i trobar claredat a la seva vida. Ens dediquem a acompanyar-te en el teu procés d'autoconeixement i desenvolupament personal, proporcionant-te les eines necessàries per enfortir el teu benestar emocional i construir relacions saludables.\nA més, comptem amb programes de reeducació i suport específic per a alumnat amb necessitats educatives especials, adaptant el nostre enfocament per oferir una orientació inclusiva i personalitzada. El nostre objectiu és ajudar cada persona, independentment dels seus desafiaments, a desenvolupar el seu màxim potencial, promovent un aprenentatge significatiu i en harmonia amb ella mateixa.\nCreiem en el poder de cada trobada com una oportunitat per créixer, sanar i aprendre, facilitant que cada persona construeixi una vida més plena, en equilibri i amb propòsit, tant a nivell personal com educatiu."
+      "text": "A Puentes de Encuentro, la nostra missió és crear un espai de suport i creixement on cada persona pugui construir ponts per connectar amb la seva essència, descobrir el seu propi camí i trobar claredat a la seva vida. Ens dediquem a acompanyar-te en el teu procés d'autoconeixement i desenvolupament personal, proporcionant-te les eines necessàries per enfortir el teu benestar emocional i construir relacions saludables.\nA més, comptem amb programes de reeducació i suport específic per a alumnat amb necessitats educatives especials, adaptant la nostra visió per oferir una orientació inclusiva i personalitzada. El nostre objectiu és ajudar cada persona, independentment dels seus desafiaments, a desenvolupar el seu màxim potencial, promovent un aprenentatge significatiu i en harmonia amb ella mateixa.\nCreiem en el poder de cada trobada com una oportunitat per créixer, sanar i aprendre, facilitant que cada persona construeixi una vida més plena, en equilibri i amb propòsit, tant a nivell personal com educatiu."
     },
     "services": {
       "title": "Els Nostres Serveis",
@@ -37,8 +37,8 @@
       ]
     },
     "focus": {
-      "title": "El Nostre Enfocament",
-      "text": "Creiem en el poder d'un enfocament personalitzat i empàtic. A Puentes de Encuentro, cada procés és únic, perquè tu ets únic. Treballem des de la proximitat i el respecte, i adaptem les nostres estratègies i eines al teu ritme i a les teves necessitats. Per a nosaltres, cada trobada és una oportunitat de crear un vincle autèntic, on puguis sentir-te lliure d'expressar-te i ser tu mateix."
+      "title": "La Nostra Visió",
+      "text": "Creiem en el poder d'una visió personalitzada i empàtica. A Puentes de Encuentro, cada procés és únic, perquè tu ets únic. Treballem des de la proximitat i el respecte, i adaptem les nostres estratègies i eines al teu ritme i a les teves necessitats. Per a nosaltres, cada trobada és una oportunitat de crear un vincle autèntic, on puguis sentir-te lliure d'expressar-te i ser tu mateix."
     },
     "whyChooseUs": {
       "title": "Per què triar-nos?",
@@ -53,7 +53,7 @@
         },
         {
           "title": "Creciment Integral",
-          "text": "El nostre enfocament combina l'aspecte emocional, mental i social per ajudar-te a construir una vida en equilibri."
+          "text": "La nostra visió combina l'aspecte emocional, mental i social per ajudar-te a construir una vida en equilibri."
         },
         {
           "title": "Flexibilitat i Acompanyament",
