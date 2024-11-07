@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import NavLinks from './nav-links.tsx';
 import LanguageSelector from './language-selector.tsx';
 import MobileMenuToggle from './mobile-menu-toggle.tsx';
+import Logo from '../../../public/puentes_de_encuentro.svg';
 
 const Navbar: React.FC = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -12,7 +13,12 @@ const Navbar: React.FC = () => {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-between h-16">
                     <div className="flex items-center">
-                        <span className="text-xl font-bold">MyLogo</span>
+                    <div>
+                        <a href="#" className="flex items-center py-4 px-2">
+                            <img src={Logo} alt="Logo" className="h-14 w-14 mr-2" />
+                            <span className="font-semibold text-black text-lg">Puentes de Encuentro</span>
+                        </a>
+                        </div>
                         <div className="hidden md:flex ml-10 space-x-4">
                             <NavLinks />
                         </div>
