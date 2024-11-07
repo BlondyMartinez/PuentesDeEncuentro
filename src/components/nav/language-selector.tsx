@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import flagEs from '../../assets/Flag_of_Spain.svg';
 import flagCat from '../../assets/Flag_of_Catalonia.svg';
@@ -15,8 +15,11 @@ const LanguageSelector: React.FC<Props> = ({ isMobile = false }) => {
     const handleLanguageChange = (lang: string) => {
         i18n.changeLanguage(lang);
         setIsLangOpen(false);
-        setFlag(lang === 'es' ? flagEs : flagCat);
     };
+
+    useEffect(() => {
+        setFlag(i18n.language === 'es' ? flagEs : flagCat);
+    }, [i18n.language]);
 
     return (
         <div className="relative">
