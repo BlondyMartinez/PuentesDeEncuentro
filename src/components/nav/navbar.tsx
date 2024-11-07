@@ -1,5 +1,6 @@
 // Navbar.tsx
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import NavLinks from './nav-links.tsx';
 import LanguageSelector from './language-selector.tsx';
 import MobileMenuToggle from './mobile-menu-toggle.tsx';
@@ -14,10 +15,10 @@ const Navbar: React.FC = () => {
                 <div className="flex items-center justify-between h-16">
                     <div className="flex items-center">
                     <div>
-                        <a href="#" className="flex items-center py-4 px-2">
+                        <Link to="/" className="flex items-center py-4 px-2">
                             <img src={Logo} alt="Logo" className="h-14 w-14 mr-2" />
                             <span className="font-semibold text-black text-lg">Puentes de Encuentro</span>
-                        </a>
+                        </Link>
                         </div>
                         <div className="hidden md:flex ml-10 space-x-4">
                             <NavLinks />
