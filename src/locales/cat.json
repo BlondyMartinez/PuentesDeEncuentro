@@ -1,11 +1,69 @@
 {
-    "navbar": {
-        "home": "Inici",
-        "about": "Sobre nosaltres",
-        "services": "Serveis",
-        "contact": "Contacte",
-        "language": "Idioma"
+  "navbar": {
+    "about": "Sobre nosaltres",
+    "services": "Serveis",
+    "contact": "Contacte",
+    "language": "Idioma"
+  },
+  "home": {
+    "who": {
+      "title": "Qui som?",
+      "text": "A Puentes de Encuentro creiem que cada persona té un camí únic, ple d'aprenentatges, reptes i creixement. El nostre projecte neix de la unió de dues professionals apassionades pel benestar, el desenvolupament personal, professional i educatiu: Iris, psicòloga, i Ainoa, pedagoga. Juntes, hem creat un espai segur i acollidor on pots explorar, expressar-te i redescobrir-te, guiat per un equip compromès a acompanyar-te i assessorar-te al llarg del camí."
     },
-    "welcome": "Benvingut",
-    "description": "Descripció."
+    "mission": {
+      "title": "La Nostra Missió",
+      "text": "A Puentes de Encuentro, la nostra missió és crear un espai de suport i creixement on cada persona pugui construir ponts per connectar amb la seva essència, descobrir el seu propi camí i trobar claredat a la seva vida. Ens dediquem a acompanyar-te en el teu procés d'autoconeixement i desenvolupament personal, proporcionant-te les eines necessàries per enfortir el teu benestar emocional i construir relacions saludables.\nA més, comptem amb programes de reeducació i suport específic per a alumnat amb necessitats educatives especials, adaptant el nostre enfocament per oferir una orientació inclusiva i personalitzada. El nostre objectiu és ajudar cada persona, independentment dels seus desafiaments, a desenvolupar el seu màxim potencial, promovent un aprenentatge significatiu i en harmonia amb ella mateixa.\nCreiem en el poder de cada trobada com una oportunitat per créixer, sanar i aprendre, facilitant que cada persona construeixi una vida més plena, en equilibri i amb propòsit, tant a nivell personal com educatiu."
+    },
+    "services": {
+      "title": "Els Nostres Serveis",
+      "text": "A Puentes de Encuentro, oferim una àmplia gamma de serveis adaptats a les teves necessitats personals:",
+      "service-list": [
+        {
+          "title": "Teràpia Psicològica",
+          "text": "Sessions individuals que aborden temes emocionals, dificultats personals, i et proporcionen les eines necessàries per a un benestar emocional."
+        },
+        {
+          "title": "Orientació i Desenvolupament Personal:",
+          "text": ""
+        },
+        {
+          "title": "Reeducació i Suport Educatiu per a Necessitats Específiques:",
+          "text": "Programes de reeducació especialitzats per a alumnat amb necessitats específiques de suport educatiu, dissenyats per potenciar les seves habilitats i promoure un aprenentatge personalitzat i dinàmic."
+        },
+        {
+          "title": "Tallers i Grups de Creixement:",
+          "text": "Espais grupals per explorar temàtiques específiques, compartir experiències i aprendre d'altres persones en un ambient de respecte i empatia.\nEl nostre equip de professionals està compromès en donar-te suport a cada etapa del teu procés, proporcionant un espai segur i acollidor on puguis explorar, aprendre i créixer al teu propi ritme."
+        }
+      ]
+    },
+    "focus": {
+      "title": "El Nostre Enfocament",
+      "text": "Creiem en el poder d'un enfocament personalitzat i empàtic. A Puentes de Encuentro, cada procés és únic, perquè tu ets únic. Treballem des de la proximitat i el respecte, i adaptem les nostres estratègies i eines al teu ritme i a les teves necessitats. Per a nosaltres, cada trobada és una oportunitat de crear un vincle autèntic, on puguis sentir-te lliure d'expressar-te i ser tu mateix."
+    },
+    "whyChooseUs": {
+      "title": "Per què triar-nos?",
+      "reason-list": [
+        {
+          "title": "Professionals Compromesos",
+          "text": "Som especialistes en psicologia i pedagogia, amb experiència en acompanyament emocional i desenvolupament personal."
+        },
+        {
+          "title": "Espai Segur i de Confiança",
+          "text": "Ens assegurem que cada sessió es senti com un lloc segur, on puguis obrir-te i explorar amb llibertat."
+        },
+        {
+          "title": "Creciment Integral",
+          "text": "El nostre enfocament combina l'aspecte emocional, mental i social per ajudar-te a construir una vida en equilibri."
+        },
+        {
+          "title": "Flexibilitat i Acompanyament",
+          "text": "Ens adaptem a les teves necessitats i t'acompanyem a cada fase del teu procés de creixement."
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "Estàs llest per creuar el pont?",
+      "text": "A Puentes de Encuentro, et convidem a fer el primer pas en un viatge transformador. Estem aquí per escoltar-te, guiar-te i proporcionar-te el suport que necessites per trobar el teu propi camí."
+    }
+  }
 }

@@ -1,11 +1,69 @@
 {
-    "navbar": {
-      "home": "Inicio",
-      "about": "Sobre nosotras",
-      "services": "Servicios",
-      "contact": "Contacto",
-      "language": "Idioma"
+  "navbar": {
+    "about": "Sobre nosotras",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "home": {
+    "who": {
+      "title": "¿Quiénes somos?",
+      "text": "En Puentes de Encuentro creemos que cada persona tiene un camino único, lleno de aprendizajes, desafíos y crecimiento. Nuestro proyecto nace de la unión de dos profesionales apasionadas por el bienestar, el desarrollo personal, profesional y educativo: Iris, psicóloga, y Ainoa, pedagoga. Juntas, hemos creado un espacio seguro y acogedor donde puedes explorar, expresar y redescubrirte, guiado por un equipo comprometido en acompañarte y asesorarte a lo largo del camino."
     },
-    "welcome": "Bienvenido",
-    "description": "Descripción."
+    "mission": {
+      "title": "Nuestra Misión",
+      "text": "En Puentes de Encuentro, nuestra misión es crear un espacio de apoyo y crecimiento donde cada persona pueda construir puentes para conectar con su esencia, descubrir su propio camino y encontrar claridad en su vida. Nos dedicamos a acompañarte en tu proceso de autoconocimiento y desarrollo personal, brindándote las herramientas necesarias para fortalecer tu bienestar emocional y construir relaciones saludables.\nAdemás, contamos con programas de reeducación y apoyo específico para alumnado con necesidades educativas especiales, adaptando nuestro enfoque para ofrecer una orientación inclusiva y personalizada. Nuestro objetivo es ayudar a cada persona, independientemente de sus desafíos, a desarrollar su máximo potencial, promoviendo un aprendizaje significativo y en armonía consigo misma.\nCreemos en el poder de cada encuentro como una oportunidad para crecer, sanar y aprender, facilitando que cada persona construya una vida más plena, en equilibrio y con propósito, tanto a nivel personal como educativo."
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "text": "En Puentes de Encuentro, ofrecemos una amplia gama de servicios adaptados a tus necesidades personales:",
+      "service-list": [
+        {
+          "title": "Terapia Psicológica",
+          "text": "Sesiones individuales que abordan temas emocionales, dificultades personales, y te brindan las herramientas necesarias para un bienestar emocional."
+        },
+        {
+          "title": "Orientación y Desarrollo Personal:",
+          "text": ""
+        },
+        {
+          "title": "Reeducación y Apoyo Educativo para Necesidades Específicas:",
+          "text": "Programas de reeducación especializados para alumnado con necesidades específicas de apoyo educativo, diseñados para potenciar sus habilidades y promover un aprendizaje personalizado y dinámico."
+        },
+        {
+          "title": "Talleres y Grupos de Crecimiento:",
+          "text": "Espacios grupales para explorar temáticas específicas, compartir experiencias y aprender de otras personas en un ambiente de respeto y empatía.\nNuestro equipo de profesionales está comprometido en apoyarte en cada etapa de tu proceso, brindando un espacio seguro y acogedor donde puedas explorar, aprender y crecer a tu propio ritmo."
+        }
+      ]
+    },
+    "focus": {
+      "title": "Nuestro Enfoque",
+      "text": "Creemos en el poder de un enfoque personalizado y empático. En Puentes de Encuentro, cada proceso es único, porque tú eres único. Trabajamos desde la cercanía y el respeto, y adaptamos nuestras estrategias y herramientas a tu ritmo y a tus necesidades. Para nosotros, cada encuentro es una oportunidad de crear un vínculo auténtico, donde puedas sentirte libre de expresarte y ser tú mismo."
+    },
+    "whyChooseUs": {
+      "title": "¿Por qué elegirnos?",
+      "reason-list": [
+        {
+          "title": "Profesionales Comprometidos",
+          "text": "Somos especialistas en psicología y pedagogía, con experiencia en acompañamiento emocional y desarrollo personal."
+        },
+        {
+          "title": "Espacio Seguro y de Confianza",
+          "text": "Nos aseguramos de que cada sesión se sienta como un lugar seguro, donde puedas abrirte y explorar con libertad."
+        },
+        {
+          "title": "Crecimiento Integral",
+          "text": "Nuestro enfoque combina el aspecto emocional, mental y social para ayudarte a construir una vida en equilibrio."
+        },
+        {
+          "title": "Flexibilidad y Acompañamiento",
+          "text": "Nos adaptamos a tus necesidades y te acompañamos en cada fase de tu proceso de crecimiento."
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "¿Estás listo para cruzar el puente?",
+      "text": "En Puentes de Encuentro, te invitamos a dar el primer paso en un viaje transformador. Estamos aquí para escucharte, guiarte y brindarte el apoyo que necesitas para encontrar tu propio camino."
+    }
   }
+}
