@@ -12,7 +12,7 @@
     },
     "mission": {
       "title": "La Nostra Missió",
-      "text": "A Puentes de Encuentro, la nostra missió és crear un espai de suport i creixement on cada persona pugui construir ponts per connectar amb la seva essència, descobrir el seu propi camí i trobar claredat a la seva vida. Ens dediquem a acompanyar-te en el teu procés d'autoconeixement i desenvolupament personal, proporcionant-te les eines necessàries per enfortir el teu benestar emocional i construir relacions saludables.\nA més, comptem amb programes de reeducació i suport específic per a alumnat amb necessitats educatives especials, adaptant la nostra visió per oferir una orientació inclusiva i personalitzada. El nostre objectiu és ajudar cada persona, independentment dels seus desafiaments, a desenvolupar el seu màxim potencial, promovent un aprenentatge significatiu i en harmonia amb ella mateixa.\nCreiem en el poder de cada trobada com una oportunitat per créixer, sanar i aprendre, facilitant que cada persona construeixi una vida més plena, en equilibri i amb propòsit, tant a nivell personal com educatiu."
+      "text": "A Puentes de Encuentro, la nostra missió és crear un espai de suport i creixement on cada persona pugui construir ponts per connectar amb la seva essència, descobrir el seu propi camí i trobar claredat a la seva vida. Ens dediquem a acompanyar-te en el teu procés d'autoconeixement i desenvolupament personal, proporcionant-te les eines necessàries per enfortir el teu benestar emocional i construir relacions saludables.\nA més, comptem amb programes de reeducació i suport específic per a alumnat amb necessitats educatives especials, adaptant la nostra visió per oferir una orientació inclusiva i personalitzada. El nostre objectiu és ajudar cada persona, independentment dels seus reptes, a desenvolupar el seu màxim potencial, promovent un aprenentatge significatiu i en harmonia amb ella mateixa.\nCreiem en el poder de cada trobada com una oportunitat per créixer, sanar i aprendre, facilitant que cada persona construeixi una vida més plena, en equilibri i amb propòsit, tant a nivell personal com educatiu."
     },
     "services": {
       "title": "Els Nostres Serveis",
@@ -24,7 +24,7 @@
         },
         {
           "title": "Orientació i Desenvolupament Personal:",
-          "text": ""
+          "text": "T’ajudem a descobrir les teves fortaleses, definir els teus objectius i traçar un pla d’acció cap a una vida plena i en equilibri."
         },
         {
           "title": "Reeducació i Suport Educatiu per a Necessitats Específiques:",
@@ -65,5 +65,11 @@
       "title": "Estàs llest per creuar el pont?",
       "text": "A Puentes de Encuentro, et convidem a fer el primer pas en un viatge transformador. Estem aquí per escoltar-te, guiar-te i proporcionar-te el suport que necessites per trobar el teu propi camí."
     }
+  },
+  "about": {
+    "title": "Sobre Nosaltres",
+    "text": "La idea de PUENTES DE ENCUENTRO neix de la necessitat de crear un espai de suport integral que atengui les diverses dimensions de les persones: emocional, psicopedagògica i social. Tant l'Iris com l'Ainoa compartim una visió comuna: la convicció que el benestar personal i familiar no només depèn de la resolució de problemes puntuals, sinó d'un enfocament holístic que combini la salut mental, el desenvolupament emocional i les eines educatives.\nSabem que el benestar d'una persona no es pot separar del seu entorn, i que els reptes emocionals i psicopedagògics estan íntimament lligats.",
+    "iris": "Des de petita, sempre he sentit una profunda curiositat per entendre les emocions, les relacions i com les persones afronten els reptes de la vida.\nDes de la meva infància, vaig tenir la sensació que el meu camí estava vinculat a acompanyar els altres, buscant ajudar-los a comprendre's a si mateixos i a trobar formes de superar les pedres del camí.\nAquest interès va fer que estudiés Psicologia. Al llarg de la meva formació i trajectòria professional, he tingut l'oportunitat d'intervenir en diverses àrees, com les necessitats educatives específiques, la discapacitat intel·lectual, els trastorns de l'espectre autista (TEA), la salut mental, l'autoestima, les habilitats socials... Per abordar aquestes necessitats, he utilitzat una varietat d'eines i enfocaments terapèutics, entre els quals s'inclou la teràpia cognitiu-conductual (TCC), amb la gestió emocional, l'orientació, la reeducació i altres tècniques, sempre adaptades a les particularitats de cada cas.\nEl meu objectiu és proporcionar un espai segur on poder explorar els sentiments, les dificultats i les preocupacions, ajudar a trobar formes d'afrontar-les de manera més efectiva i on puguem millorar el benestar emocional, mental i social.",
+    "ainoa": "Des de petita, l'educació i el desenvolupament personal han estat àmbits que m'han fascinat. Sempre he cregut en el poder transformador de l'educació, no només per impartir coneixements, sinó també per donar suport al creixement emocional i personal de les persones.\nÉs per això que vaig estudiar Pedagogia, especialitzant-me en l'acompanyament educatiu i l'atenció a la diversitat.\nLa meva experiència es basa en l'àmbit social en diversos contextos; institucions educatives amb persones amb discapacitat intel·lectual, salut mental i TEA, realitzant intervenció educativa i orientació familiar en l'àmbit privat.\nEl meu enfocament se centra a crear espais educatius inclusius i personalitzats, on cada nen, adolescent o adult pugui desenvolupar el seu potencial, tant intel·lectual com emocional.\nEl meu objectiu és apoderar les persones perquè adquireixin eines que els permetin afrontar els reptes de l'aprenentatge i de la vida diària de manera positiva. "
   }
 }

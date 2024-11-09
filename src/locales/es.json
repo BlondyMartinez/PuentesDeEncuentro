@@ -24,7 +24,7 @@
         },
         {
           "title": "Orientación y Desarrollo Personal:",
-          "text": ""
+          "text": "Te ayudamos a descubrir tus fortalezas, definir tus objetivos y trazar un plan de acción hacia una vida plena y en equilibrio."
         },
         {
           "title": "Reeducación y Apoyo Educativo para Necesidades Específicas:",
@@ -65,5 +65,11 @@
       "title": "¿Estás listo para cruzar el puente?",
       "text": "En Puentes de Encuentro, te invitamos a dar el primer paso en un viaje transformador. Estamos aquí para escucharte, guiarte y brindarte el apoyo que necesitas para encontrar tu propio camino."
     }
+  },
+  "about": {
+    "title": "Sobre Nosotras",
+    "text": "La idea de Puentes de encuentro nace de la necesidad de crear un espacio de apoyo integral que atienda las diversas dimensiones de las personas: emocional, psicopedagógica y social. Tanto Iris como Ainoa compartimos una visión común: la convicción de que el bienestar personal y familiar no solo depende de la resolución de problemas puntuales, sino de un enfoque holístico que combine la salud mental, el desarrollo emocional y las herramientas educativas.\nSabemos que el bienestar de una persona no puede separarse de su entorno, y que los desafíos emocionales y psicopedagógicos están íntimamente ligados.  ",
+    "iris": "Desde que era pequeña, siempre he sentido una profunda curiosidad por entender las emociones, las relaciones y cómo las personas lidian con los desafíos de la vida.\nDesde mi infancia, tuve la sensación de que mi camino estaba vinculada al acompañamiento de los demás, buscando ayudarles a comprenderse a sí mismos y a encontrar formas de superar las piedras del camino.\nEste interés provoco que estudiar Psicología. A lo largo de mi formación y trayectoria profesional, he tenido la oportunidad de intervenir en diversas áreas, tales como necesidades educativas específicas, discapacidad intelectual, trastornos del espectro autista (TEA), salud mental, autoestima, habilidades sociales... Para abordar estas necesidades, he utilizado una variedad de herramientas y enfoques terapéuticos, entre los que se incluyen la terapia cognitivo-conductual (TCC), con la gestión emocional, la orientación, la reeducación y otras técnicas, siempre adaptadas a las particularidades de cada caso.\nMi objetivo es proporcionar un espacio seguro donde poder explorar los sentimientos, dificultades y preocupaciones, ayudar a encontrar formas de afrontarlas de manera más efectiva donde podamos mejorar el bienestar emocional, mental y social.",
+    "ainoa": "Desde que era pequeña, la educación y el desarrollo personal han sido ámbitos que me han fascinado. Siempre he creído en el poder transformador de la educación, no solo para impartir conocimientos, sino también para apoyar el crecimiento emocional y personal de las personas.\nEs por ello que estudié Pedagogía, especializándome en el acompañamiento educativo y la atención a la diversidad.\nMi experiencia se basa en el ámbito social en diversos contextos; instituciones educativas con personas con discapacidad intelectual, salud mental y TEA, realizando intervención educativa y orientación familiar a nivel privado.\nMi enfoque se centra en crear espacios educativos inclusivos y personalizados, donde cada niño, adolescente o adulto pueda desarrollar su potencial, tanto intelectual como emocional.\nMi objetivo es empoderar a las personas para que adquieran herramientas que les permitan afrontar los retos del aprendizaje y la vida diaria de manera positiva."
   }
 }
